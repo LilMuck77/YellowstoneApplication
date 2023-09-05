@@ -1,0 +1,98 @@
+body{
+    background-color: #4d6b30;
+}
+header{
+    background-color: #4d6b30;
+}
+.heroCol{
+    display: flex;
+    min-height: 300px !important;
+
+
+    display: flex;
+    font-family: Dialog;
+
+}
+
+.heroCol .heroContentWrapper h1 {
+    color: rgba(255,235,0,0.85);
+    font-size: 60px;
+    border-color: white;
+}
+
+
+.logo {
+  float: left;
+    height: 80px;
+    width: 150px;
+}
+
+.navbar{
+    padding-right: 60px;
+}
+
+.heroCol{
+
+    background-size: cover;
+    justify-content: space-evenly;
+
+}
+.nav-link{
+    color: black;
+
+}
+.nav-tabs{
+    background-color: white;
+    border-color: black;
+}
+.mainContainer{
+    background-color: lightgray;
+}
+.tab-content{
+    padding-top: 20px;
+}
+.red{
+    color: red;
+}
+.disclaimer{
+    color: darkred;
+    font-style: italic;
+}
+h6{
+    text-align: center;
+}
+.date{
+    font-size: 15px;
+    display: flex;
+}
+.col-md-2{
+    align-self: flex-end;
+}
+
+.highlight {
+    background-color: red;
+    width: 200px !important;
+}
+
+.shrink {
+    background-color: gray;
+    width: 50px !important;
+}
+.education{
+    text-align: center;
+}
+.graduated{
+    text-align: left;
+}
+.eligibility{
+    font-size: 16px;
+    text-align: center;
+
+}
+.general{
+    text-align: center;
+}
+
+.ethnicity{
+    text-align: left;
+}
